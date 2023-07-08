@@ -1,1 +1,1 @@
-# priceing_table
+# pricing_table
